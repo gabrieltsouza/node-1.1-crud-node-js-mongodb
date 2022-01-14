@@ -1,0 +1,1 @@
+export function static () { return 1 }
